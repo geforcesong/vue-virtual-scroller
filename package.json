@@ -1,5 +1,5 @@
 {
-  "name": "vue-virtual-scroller",
+  "name": "vue-virtual-scroller-czfix",
   "description": "Smooth scrolling for any amount of data",
   "version": "0.12.0",
   "author": {
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/vue-virtual-scroller.git"
+    "url": "git@github.com:geforcesong/vue-virtual-scroller.git"
   },
   "bugs": {
-    "url": "https://github.com/Akryum/vue-virtual-scroller/issues"
+    "url": "https://github.com/geforcesong/vue-virtual-scroller/issues"
   },
-  "homepage": "https://github.com/Akryum/vue-virtual-scroller#readme",
+  "homepage": "https://github.com/geforcesong/vue-virtual-scroller#readme",
   "peerDependencies": {
     "vue": "^2.5.2"
   },

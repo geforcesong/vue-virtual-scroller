@@ -20,7 +20,7 @@ Smooth scroll with any amount of data ([demo](https://akryum.github.io/vue-virtu
 # Installation
 
 ```
-npm install --save vue-virtual-scroller
+npm install --save vue-virtual-scroller-czfix
 ```
 
 **⚠️ `vue-virtual-scroller` now uses [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility#installation) to automatically refresh itself when shown to prevent display glitches. This means you need to include the [Intersection Observer polyfill](https://github.com/w3c/IntersectionObserver/tree/master/polyfill) needed by `vue-observe-visibility` for this to work in old browsers (like Internet Explorer).**
